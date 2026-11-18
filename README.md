@@ -170,7 +170,7 @@ Your own CSV/Excel file should include these columns (alternative names are auto
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/sales-revenue-analysis-dashboard.git
+git clone https://github.com/muthukutti2006/sales-revenue-analysis-dashboard.git
 
 # 2. Navigate to the project directory
 cd sales-revenue-analysis-dashboard
