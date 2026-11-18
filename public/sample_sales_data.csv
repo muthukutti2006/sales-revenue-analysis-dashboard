@@ -1,0 +1,91 @@
+OrderID,Date,Product,Category,Region,UnitsSold,UnitPrice,CostPerUnit,Revenue,COGS,Profit
+ORD-10001,2024-01-03,Laptop Pro 15",Electronics,North,3,1261.74,782.28,3785.22,2346.84,1438.38
+ORD-10002,2024-01-07,Ergonomic Office Chair,Furniture,South,2,432.68,251.11,865.36,502.22,363.14
+ORD-10003,2024-01-11,Men's Formal Suit,Clothing,East,5,281.45,126.65,1407.25,633.25,774.00
+ORD-10004,2024-01-15,Premium Notebook Set,Office Supplies,West,8,27.84,11.14,222.72,89.12,133.60
+ORD-10005,2024-01-19,Treadmill Home Pro,Sports & Fitness,Central,1,1163.82,756.48,1163.82,756.48,407.34
+ORD-10006,2024-01-22,Wireless Headphones,Electronics,North,4,241.22,132.67,964.88,530.68,434.20
+ORD-10007,2024-01-25,Standing Desk,Furniture,South,1,580.14,348.08,580.14,348.08,232.06
+ORD-10008,2024-01-28,Women's Winter Jacket,Clothing,East,3,183.14,76.92,549.42,230.76,318.66
+ORD-10009,2024-02-02,4K Smart TV 55",Electronics,West,2,775.63,504.16,1551.26,1008.32,542.94
+ORD-10010,2024-02-05,Ergonomic Mouse,Office Supplies,Central,6,57.23,28.62,343.38,171.72,171.66
+ORD-10011,2024-02-09,Smartphone X12,Electronics,North,2,871.44,522.86,1742.88,1045.72,697.16
+ORD-10012,2024-02-13,Yoga Mat Premium,Sports & Fitness,South,10,57.23,24.03,572.30,240.30,332.00
+ORD-10013,2024-02-17,Bookshelf 5-Tier,Furniture,East,2,183.14,95.23,366.28,190.46,175.82
+ORD-10014,2024-02-20,Denim Jeans,Clothing,West,7,76.63,30.65,536.41,214.55,321.86
+ORD-10015,2024-02-24,Mechanical Keyboard,Office Supplies,Central,3,144.53,79.49,433.59,238.47,195.12
+ORD-10016,2024-03-01,Tablet Ultra,Electronics,North,2,532.26,308.71,1064.52,617.42,447.10
+ORD-10017,2024-03-05,Dining Table Set,Furniture,South,1,726.53,443.18,726.53,443.18,283.35
+ORD-10018,2024-03-09,Running Shoes,Clothing,East,4,115.43,55.41,461.72,221.64,240.08
+ORD-10019,2024-03-13,Monitor Stand,Office Supplies,West,5,86.33,44.89,431.65,224.45,207.20
+ORD-10020,2024-03-17,Dumbbell Set 20kg,Sports & Fitness,Central,2,183.14,100.73,366.28,201.46,164.82
+ORD-10021,2024-03-21,Bluetooth Speaker,Electronics,North,6,125.13,62.57,750.78,375.42,375.36
+ORD-10022,2024-03-25,Sofa 3-Seater,Furniture,South,1,968.31,610.04,968.31,610.04,358.27
+ORD-10023,2024-03-29,Casual T-Shirt Pack,Clothing,East,12,47.53,18.06,570.36,216.72,353.64
+ORD-10024,2024-04-02,Desk Lamp LED,Office Supplies,West,4,66.93,32.13,267.72,128.52,139.20
+ORD-10025,2024-04-06,Cycling Helmet,Sports & Fitness,Central,3,95.93,47.97,287.79,143.91,143.88
+ORD-10026,2024-04-10,Laptop Pro 15",Electronics,North,2,1286.49,797.62,2572.98,1595.24,977.74
+ORD-10027,2024-04-14,Ergonomic Office Chair,Furniture,South,3,443.78,257.39,1331.34,772.17,559.17
+ORD-10028,2024-04-18,Men's Formal Suit,Clothing,East,2,293.14,131.91,586.28,263.82,322.46
+ORD-10029,2024-04-22,Premium Notebook Set,Office Supplies,West,15,28.44,11.38,426.60,170.70,255.90
+ORD-10030,2024-04-26,Protein Powder 2kg,Sports & Fitness,Central,5,67.23,30.25,336.15,151.25,184.90
+ORD-10031,2024-05-02,Wireless Headphones,Electronics,North,3,246.08,135.34,738.24,406.02,332.22
+ORD-10032,2024-05-06,4K Smart TV 55",Electronics,South,1,785.23,510.40,785.23,510.40,274.83
+ORD-10033,2024-05-10,Standing Desk,Furniture,East,2,591.03,354.62,1182.06,709.24,472.82
+ORD-10034,2024-05-14,Women's Winter Jacket,Clothing,West,4,186.14,78.18,744.56,312.72,431.84
+ORD-10035,2024-05-18,Ergonomic Mouse,Office Supplies,Central,8,58.23,29.12,465.84,232.96,232.88
+ORD-10036,2024-05-22,Treadmill Home Pro,Sports & Fitness,North,1,1178.22,765.84,1178.22,765.84,412.38
+ORD-10037,2024-05-26,Smartphone X12,Electronics,South,3,885.14,531.08,2655.42,1593.24,1062.18
+ORD-10038,2024-06-01,Tablet Ultra,Electronics,East,2,541.86,314.28,1083.72,628.56,455.16
+ORD-10039,2024-06-05,Bookshelf 5-Tier,Furniture,West,3,186.44,96.95,559.32,290.85,268.47
+ORD-10040,2024-06-09,Denim Jeans,Clothing,Central,6,78.03,31.21,468.18,187.26,280.92
+ORD-10041,2024-06-13,Mechanical Keyboard,Office Supplies,North,2,147.03,80.87,294.06,161.74,132.32
+ORD-10042,2024-06-17,Yoga Mat Premium,Sports & Fitness,South,8,58.23,24.46,465.84,195.68,270.16
+ORD-10043,2024-06-21,Dining Table Set,Furniture,East,1,738.63,450.57,738.63,450.57,288.06
+ORD-10044,2024-06-25,Running Shoes,Clothing,West,5,117.33,56.32,586.65,281.60,305.05
+ORD-10045,2024-07-01,Bluetooth Speaker,Electronics,Central,7,127.13,63.57,889.91,444.99,444.92
+ORD-10046,2024-07-05,Monitor Stand,Office Supplies,North,4,87.83,45.67,351.32,182.68,168.64
+ORD-10047,2024-07-09,Dumbbell Set 20kg,Sports & Fitness,South,3,186.44,102.54,559.32,307.62,251.70
+ORD-10048,2024-07-13,Laptop Pro 15",Electronics,East,1,1272.84,789.16,1272.84,789.16,483.68
+ORD-10049,2024-07-17,Sofa 3-Seater,Furniture,West,1,983.11,619.36,983.11,619.36,363.75
+ORD-10050,2024-07-21,Casual T-Shirt Pack,Clothing,Central,10,48.33,18.37,483.30,183.70,299.60
+ORD-10051,2024-07-25,Desk Lamp LED,Office Supplies,North,6,67.93,32.61,407.58,195.66,211.92
+ORD-10052,2024-07-29,Cycling Helmet,Sports & Fitness,South,4,97.43,48.72,389.72,194.88,194.84
+ORD-10053,2024-08-02,Wireless Headphones,Electronics,East,5,250.94,138.02,1254.70,690.10,564.60
+ORD-10054,2024-08-06,Ergonomic Office Chair,Furniture,West,2,454.88,263.83,909.76,527.66,382.10
+ORD-10055,2024-08-10,Men's Formal Suit,Clothing,Central,3,297.44,133.85,892.32,401.55,490.77
+ORD-10056,2024-08-14,Premium Notebook Set,Office Supplies,North,12,29.04,11.62,348.48,139.44,209.04
+ORD-10057,2024-08-18,Protein Powder 2kg,Sports & Fitness,South,6,68.43,30.79,410.58,184.74,225.84
+ORD-10058,2024-08-22,4K Smart TV 55",Electronics,East,2,794.83,516.64,1589.66,1033.28,556.38
+ORD-10059,2024-08-26,Standing Desk,Furniture,West,1,601.93,361.16,601.93,361.16,240.77
+ORD-10060,2024-09-01,Smartphone X12,Electronics,Central,2,898.84,539.30,1797.68,1078.60,719.08
+ORD-10061,2024-09-05,Women's Winter Jacket,Clothing,North,5,189.14,79.44,945.70,397.20,548.50
+ORD-10062,2024-09-09,Ergonomic Mouse,Office Supplies,South,10,59.23,29.62,592.30,296.20,296.10
+ORD-10063,2024-09-13,Treadmill Home Pro,Sports & Fitness,East,1,1192.62,775.20,1192.62,775.20,417.42
+ORD-10064,2024-09-17,Tablet Ultra,Electronics,West,3,551.46,319.85,1654.38,959.55,694.83
+ORD-10065,2024-09-21,Bookshelf 5-Tier,Furniture,Central,2,189.74,98.67,379.48,197.34,182.14
+ORD-10066,2024-09-25,Denim Jeans,Clothing,North,8,79.43,31.77,635.44,254.16,381.28
+ORD-10067,2024-10-01,Mechanical Keyboard,Office Supplies,South,3,149.53,82.24,448.59,246.72,201.87
+ORD-10068,2024-10-05,Yoga Mat Premium,Sports & Fitness,East,7,59.63,25.04,417.41,175.28,242.13
+ORD-10069,2024-10-09,Laptop Pro 15",Electronics,West,2,1259.19,780.70,2518.38,1561.40,956.98
+ORD-10070,2024-10-13,Dining Table Set,Furniture,Central,1,750.73,457.95,750.73,457.95,292.78
+ORD-10071,2024-10-17,Running Shoes,Clothing,North,6,119.23,57.23,715.38,343.38,372.00
+ORD-10072,2024-10-21,Bluetooth Speaker,Electronics,South,8,129.13,64.57,1033.04,516.56,516.48
+ORD-10073,2024-10-25,Monitor Stand,Office Supplies,East,5,89.33,46.45,446.65,232.25,214.40
+ORD-10074,2024-10-29,Dumbbell Set 20kg,Sports & Fitness,West,2,189.74,104.36,379.48,208.72,170.76
+ORD-10075,2024-11-02,Wireless Headphones,Electronics,Central,6,255.80,140.69,1534.80,844.14,690.66
+ORD-10076,2024-11-06,Ergonomic Office Chair,Furniture,North,3,466.08,270.37,1398.24,811.11,587.13
+ORD-10077,2024-11-10,Casual T-Shirt Pack,Clothing,South,15,49.13,18.67,736.95,280.05,456.90
+ORD-10078,2024-11-14,Desk Lamp LED,Office Supplies,East,8,68.93,33.09,551.44,264.72,286.72
+ORD-10079,2024-11-18,Cycling Helmet,Sports & Fitness,West,5,98.93,49.47,494.65,247.35,247.30
+ORD-10080,2024-11-22,4K Smart TV 55",Electronics,Central,1,804.43,522.88,804.43,522.88,281.55
+ORD-10081,2024-11-26,Sofa 3-Seater,Furniture,North,1,997.91,628.68,997.91,628.68,369.23
+ORD-10082,2024-12-01,Laptop Pro 15",Electronics,South,3,1245.54,772.23,3736.62,2316.69,1419.93
+ORD-10083,2024-12-05,Men's Formal Suit,Clothing,East,4,303.44,136.55,1213.76,546.20,667.56
+ORD-10084,2024-12-09,Premium Notebook Set,Office Supplies,West,20,29.64,11.86,592.80,237.20,355.60
+ORD-10085,2024-12-13,Treadmill Home Pro,Sports & Fitness,Central,2,1207.02,784.56,2414.04,1569.12,844.92
+ORD-10086,2024-12-17,Smartphone X12,Electronics,North,3,912.54,547.52,2737.62,1642.56,1095.06
+ORD-10087,2024-12-21,Standing Desk,Furniture,South,2,612.83,367.70,1225.66,735.40,490.26
+ORD-10088,2024-12-25,Yoga Mat Premium,Sports & Fitness,East,10,61.03,25.63,610.30,256.30,354.00
+ORD-10089,2024-12-28,Ergonomic Mouse,Office Supplies,West,8,60.23,30.12,481.84,240.96,240.88
+ORD-10090,2024-12-30,Bluetooth Speaker,Electronics,Central,5,131.13,65.57,655.65,327.85,327.80
